@@ -2,7 +2,7 @@
   "name": "minimal-dust",
   "version": "1.0.0",
   "description": "Zero-dependency variation of dustjs-linkedin and dustjs-helpers",
-  "main": "index.js",
+  "main": "dust-helpers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
